@@ -1,8 +1,13 @@
-![MasterHead]([https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG8yZW41MDY3cWRkZHFibGZqdTV4NHBob3R3cTNxZXhkZ3lvbjR0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif))
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead">
+</p>
 <h1 align="center">Hi 👋, I'm Juan Sebastian Ibarra</h1>
 <h3 align="center">A passionate Software Engineer r with quick learning skills and self-improvement qualities with few experience in the industry, great capacity to adapt to teamwork while providing organized input towards decision making, persistence and consistency to obtain quality results. Ready to apply forward-thinking techniques in order to increase work productivity. Excellent at verbal and written communication skills in two languages. A dedicated sense of responsibility and commitment towards software engineering field, always eager to learn and prepared for new challenges.</h3>
 
-<img align="right" alt="[https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)">
+
+<img align="right" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Coding Gif" width="300">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juansebstt&label=Profile%20views&color=0e75b6&style=flat" alt="juansebstt" /> </p>
 
