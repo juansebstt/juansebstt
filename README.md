@@ -18,7 +18,7 @@ Committed to clean code and proactive problem-solving, I thrive in streamlining 
 
 - 🌱 I’m currently learning **Frameworks, API's, CI/CD, AWS, Ruby, ROR**
 
-- 💬 Ask me about **Python, Django, Flask**
+- 💬 Ask me about **Python, Django, Java, Spring Boot**
 
 - 📫 How to reach me **juanseibarra011@gmail.com**
 
