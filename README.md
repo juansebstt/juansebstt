@@ -16,7 +16,7 @@ Committed to clean code and proactive problem-solving, I thrive in streamlining 
 
 - 🎓 I studied on **Politecnico Grancolombiano**
 
-- 🌱 I’m currently learning **Frameworks, API's, CI/CD, AWS, Ruby, ROR**
+- 🌱 I’m currently learning **Frameworks, API's & AWS**
 
 - 💬 Ask me about **Python, Django, Java, Spring Boot**
 
