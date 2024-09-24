@@ -2,7 +2,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead">
 </p>
 <h1 align="center">Hi 👋, I'm Juan Sebastian Ibarra</h1>
-<h3 align="center">Innovative Software Engineer with expertise in Backend Development, leveraging advanced design patterns and best practices to build scalable, maintainable, and high-performance applications. Proven track record in Agile/Scrum environments, driving projects from conception to delivery with precision and efficiency. Skilled in troubleshooting and identifying issues to improve processes and enhance business functions. Committed to writing clean, efficient code and adhering to best coding practices, ensuring high-quality and maintainable solutions. Hands-on experience includes optimizing backend systems and designing robust APIs, resulting in measurable improvements such as a 30% reduction in response times and increased user engagement. Proficient in building backend infrastructures with a deep understanding of APIs for seamless integrations, using version control to support innovative applications. Known for sharp problem-solving skills and the ability to anticipate and mitigate potential issues before they arise. Dedicated to continuous learning and adaptability, quickly mastering new technologies and aligning them with project goals.</h3>
+<h3 align="center">I'm an Innovative Software Engineer specializing in Backend Development, leveraging advanced design patterns and best practices to build scalable, high-performance applications. With experience in Agile/Scrum, I efficiently deliver projects from concept to completion, optimizing backend systems and APIs for seamless functionality and reliability.
+
+Committed to clean code and proactive problem-solving, I thrive in streamlining processes and integrating cutting-edge technologies into backend infrastructures.</h3>
 
 
 
